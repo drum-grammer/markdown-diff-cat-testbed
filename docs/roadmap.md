@@ -9,7 +9,7 @@
 
 ## Next
 
-Calendar integration ships in the spring release.
+Calendar integration ships in the summer release.
 
 Mobile apps get the same editor as the desktop.
 
