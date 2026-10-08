@@ -1,7 +1,7 @@
 ---
 title: Lantern handbook
 owner: docs-team
-updated: 2026-09-01
+updated: 2026-10-08
 ---
 
 # Lantern handbook
@@ -10,22 +10,21 @@ Lantern is a small note-taking app for teams that want plain Markdown files.
 
 ## Getting started
 
-Install Lantern from the downloads page and sign in with your work email.
+Install Lantern from the downloads page or your app store, then sign in with your work email.
 
 Lantern keeps every note as a Markdown file in your workspace folder.
 
 - Create a workspace
 - Invite your teammates
+- Connect your calendar
 - Pick a default template
 
 ## Writing notes
 
 Notes support headings, lists, tables, and fenced code blocks.
 
-Use two blank lines to start a new section in long notes.
-
 ```bash
-lantern new "Weekly sync"
+lantern new "Weekly sync" --template meeting
 ```
 
 ## Plans
@@ -33,7 +32,7 @@ lantern new "Weekly sync"
 | Plan | Notes per workspace | Price |
 | --- | --- | --- |
 | Free | 100 | $0 |
-| Team | 10,000 | $8 |
+| Team | 10,000 | $9 |
 | Business | Unlimited | $15 |
 
 ## Sharing
@@ -41,19 +40,20 @@ lantern new "Weekly sync"
 Share a note with a link that expires after seven days.
 
 > [!NOTE]
-> Shared links never include private comments.
+> Shared links never include private comments or drafts.
 
 ## Offline mode
 
 Lantern works offline and syncs when you reconnect.[^sync]
 
-[^sync]: Sync keeps the newest edit when two people change the same line.
+[^sync]: Sync keeps both edits and marks the conflict when two people change the same line.
 
 ## Integrations
 
 <table>
   <tr><td>Slack</td><td>Post a note to a channel</td></tr>
   <tr><td>Calendar</td><td>Attach notes to meetings</td></tr>
+  <tr><td>GitHub</td><td>Link notes to pull requests</td></tr>
 </table>
 
 ## Security
