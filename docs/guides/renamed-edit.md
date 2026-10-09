@@ -1,6 +1,6 @@
 # Keyboard shortcuts
 
-Press Cmd+K to search notes.
+Press Cmd+K to search notes and commands.
 
 Press Cmd+N to create a note.
 
