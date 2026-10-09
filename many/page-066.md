@@ -1,5 +1,5 @@
 # Page 66
 
-Page 66 lists the notes for week 66.
+Page 66 lists the notes for week 66 and the owner of each.
 
 It stays the same in every release.
