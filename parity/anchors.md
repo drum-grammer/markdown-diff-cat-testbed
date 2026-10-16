@@ -1,4 +1,4 @@
-# Getting started
+# Getting started fast
 
 Intro.
 
@@ -6,6 +6,6 @@ Intro.
 
 Download the app.
 
-## Install
+## Install on Linux
 
 Second install section.

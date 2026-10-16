@@ -1,4 +1,4 @@
-Status: :tada: shipped
+Status: :rocket: shipped
 
 - ✅ Offline mode
-- ✅ Shared templates
+- ❌ Shared templates

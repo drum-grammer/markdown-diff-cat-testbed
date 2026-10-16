@@ -1,5 +1,5 @@
-Docs live at https://example.com/docs and www.example.com.
+Docs live at https://example.com/guide and www.example.org.
 
-Write to support@example.com.
+Write to help@example.com.
 
-문서는https://example.com/ko에 있습니다.
+문서는https://example.com/ja에 있습니다.
