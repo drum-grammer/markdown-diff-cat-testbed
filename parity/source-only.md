@@ -1,9 +1,9 @@
-Use the Plan | Price columns and *compare* offers.
+Use the Plan \| Price columns and _compare_ offers.
 
 1. First
-2. Second
-3. Third
+1. Second
+1. Third
 
 See [the guide][g].
 
-[g]: https://example.com/guide-v1
+[g]: https://example.com/guide-v2

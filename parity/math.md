@@ -1,11 +1,11 @@
-Sync cost grows as $n^2$ for large workspaces.
+Sync cost grows as $n \log n$ for large workspaces.
 
 $$
-T(n) = a n^2 + b
+T(n) = a n \log n + b
 $$
 
 $$
 x = alpha
 
-y = beta
+y = gamma
 $$

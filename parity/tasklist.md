@@ -1,5 +1,5 @@
 ## Launch checklist
 
-- [ ] Write the announcement
+- [x] Write the announcement
 - [x] Freeze the branch
-- [ ] Notify support
+- [ ] Notify support and sales

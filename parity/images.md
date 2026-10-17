@@ -1,3 +1,3 @@
-![Lantern logo](images/logo.png)
+![Lantern logo, dark](images/logo.png)
 
-Screenshot: ![editor](images/editor-v1.png)
+Screenshot: ![editor](images/editor-v2.png)

@@ -1,10 +1,10 @@
-Before the note.
+Before the note, changed.
 
 > [!NOTE]
 > Shared links never include private comments.
 
 > [!TIP]
-> Pin notes you use every day.
+> Pin the notes you open every day.
 
-> [!WARNING]
+> [!CAUTION]
 > Deleting a workspace cannot be undone.
